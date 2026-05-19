@@ -75,9 +75,9 @@ Realtime internal dashboard for metrics, logs, uptime, alerts, and operational a
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alirazadev1443&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliraza1443&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alirazadev1443&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliraza1443&layout=compact&theme=transparent)
 
 ## Start a Conversation
 
